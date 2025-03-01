@@ -1,5 +1,6 @@
 # superstore-EDA
 🛍️ Exploratory Data Analysis on Superstore USA Dataset
+
 📊 Objective:
 Analyze the Superstore dataset to uncover sales patterns, profit insights, and customer behavior using Exploratory Data Analysis (EDA).
 
